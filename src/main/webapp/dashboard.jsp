@@ -55,7 +55,7 @@
               </div>
               <div class="stat-info">
                 <h3>Total Guests</h3>
-                <p class="stat-number">124</p> <!-- Alya will replace this with <%= totalUsers %> later -->
+                <p class="stat-number">124</p> 
               </div>
             </div>
 
